@@ -1,0 +1,17 @@
+[Narlidere GIS Gun Sonu Raporu]
+path=C:\Rapor\ARSIV\
+distribution_list(mails)=fikretsafaktest@gmail.com,fikretsafak@outlook.com.tr,narlideregis35@gmail.com
+distribution_time=16:47
+sender_name=CANTA_RES_RGVK
+smtp_adres=smtp.gmail.com
+smtp_port=587
+mail_adres=narlideregis35@gmail.com
+mail_pass=Km_narlidere_3435
+file_name(before timestamp)=RGVK_MURADIYE HES
+body= Tarihli DENEME Gun Sonu Raporu ektedir...
+
+
+
+
+
+
